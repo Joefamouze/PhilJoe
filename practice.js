@@ -5,5 +5,5 @@ function greatest(arr){
     }
     return max;
 }
-console.log(greatest([5, 66, 89, 90, 4]))
+console.log(greatest([5, 66, 89, 90, 4])) // should return 90
 
